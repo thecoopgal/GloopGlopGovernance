@@ -81,6 +81,6 @@ Gloop Glop proposes a bold new model for the digital economy—one where contrib
 
 ---
 
-For more information or to get involved, visit [placeholder for Gloop Glop site] or join our Discord community.
+For more information or to get involved, visit gloopglop.com or join our Discord community. https://discord.gg/XkfKC3sX6y
 
 
