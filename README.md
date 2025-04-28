@@ -50,7 +50,7 @@
 
 ---
 
-# **Quick Taglines You Can Use Around the Site**
+# **Quick Taglines**
 
 - **"Earn Glops. Unlock Drops. Rule the Internet."**
 - **"Scroll, Create, Win: Welcome to GloopGlop."**
