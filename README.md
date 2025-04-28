@@ -50,7 +50,7 @@ this version of the about me page was generated on gpt-4o by Erin McMahan (theco
 ---
 
 ### **Founder’s Note**
-> "**GloopGlop was kickstarted with a $30,000 donation from our founder — proof that we believe in building a better, fairer internet from day one.**"
+> "**GloopGlop is being kickstarted with donations from our founders, both monetarily and through their labor — proof that we believe in building a better, fairer internet from day one.**"
 
 ---
 
@@ -69,40 +69,6 @@ this version of the about me page was generated on gpt-4o by Erin McMahan (theco
 
 > "**Note: Donations do not confer ownership, equity, or voting rights. GloopGlop is 100% worker-owned.**"
 
----
-
-# **Simple Playful Diagram (for a visual flow idea)**
-
-```
- [You Join GloopGlop]  
-        |
-  [You Watch, Post, Upvote]
-        |
-  [You Earn Glops!]  
-        |
-  [Spend Glops on Drops + Prizes!] 
-         +
-  [Send Glops to Friends + Creators!] 
-        |
-  [Laugh, Party, Win Cool Stuff!]
-        |
-[Optional: Work on GloopGlop? Become an Owner!]
-        |
-[Optional: Believe in GloopGlop? Donate + Boost the Movement!]
-```
-
----
-
-# **Tone/Style Summary for the Website**
-- **Tone**: Playful but trustworthy. (Fun, welcoming, no corporate coldness.)
-- **Colors**: Think **purple + green** (your earlier choice — energetic and fresh).  
-- **Visuals**:  
-  - Fun icons (blob/glop mascots?)  
-  - Prize chests, Glop coins, party poppers  
-  - Super clear buttons ("Earn Glops", "Enter Drops", "Support GloopGlop")
-
----
-
 # **Summary**
 
 | Role | What They Do | What They Get |
@@ -110,5 +76,3 @@ this version of the about me page was generated on gpt-4o by Erin McMahan (theco
 | **User** | Watch, Post, Upvote | Earn Glops, spend on prizes |
 | **Worker** | Build/Run GloopGlop | Ownership, salary, Glops |
 | **Believer (Donor)** | Donate $ | Nothing in return except love + helping GloopGlop |
-
-**Want me to?**
