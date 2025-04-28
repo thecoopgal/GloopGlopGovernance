@@ -1,7 +1,3 @@
-this version of the about me page was generated on gpt-4o by Erin McMahan (thecoopgal)
-
----
-
 # **GloopGlop: How It Works**
 
 ---
@@ -76,3 +72,49 @@ this version of the about me page was generated on gpt-4o by Erin McMahan (theco
 | **User** | Watch, Post, Upvote | Earn Glops, spend on prizes |
 | **Worker** | Build/Run GloopGlop | Ownership, salary, Glops |
 | **Believer (Donor)** | Donate $ | Nothing in return except love + helping GloopGlop |
+
+---
+
+> "**GloopGlop isn’t just a new platform.  
+> It’s a new way to build the internet — together, in public, and for the people who actually use it.**"
+
+# **GloopGlop Governance and Policies**
+
+GloopGlop is 100% worker-owned, radically transparent, and cooperatively governed.  
+We publish our rules, processes, and policies openly for anyone to review.
+
+All official governance documents are stored here publicly.
+
+---
+
+## **Core Documents**
+
+| Document | Description |
+|:---|:---|
+| [GloopGlop Framework](link-to-framework.md) | How GloopGlop is owned, how Worker-Owners are created, our mission and structure. |
+| [Glop Economy Policy](link-to-glop-economy-policy.md) | How Glops are minted, earned, spent, and how the economy stays fair and transparent. |
+| [Transparency Policy](link-to-transparency-policy.md) | How we manage donations, spending, and financial reporting through Open Collective. |
+| [Worker-Owner Code of Conduct](link-to-code-of-conduct.md) | Expectations for all Worker-Owners regarding behavior, ethics, and accountability. |
+| [Community Rules (Terms Lite)](link-to-community-rules.md) | Basic rules for users — respect, fairness, legality, and community spirit. |
+| [Sponsor a Drop Policy](link-to-sponsor-a-drop-policy.md) | How brands and creators can offer prizes fairly through GloopGlop. |
+| [Sponsor Application Form](link-to-sponsor-form.md) | Form for potential Drop sponsors to apply. |
+| [Worker-Owner Application Form](link-to-worker-owner-application-form.md) | Form for creators and contributors to apply to become Worker-Owners. |
+
+---
+
+# **About Transparency**
+
+Every major financial report, donation, prize purchase, and tech expense will be posted publicly via our [Open Collective page](link-to-open-collective).
+
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+---
+
+### License
+
+This document is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+
+You are free to share and adapt this material, as long as you credit GloopGlop and license any new creations under identical terms.
+
+---
