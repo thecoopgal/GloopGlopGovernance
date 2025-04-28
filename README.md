@@ -111,12 +111,4 @@ this version of the about me page was generated on gpt-4o by Erin McMahan (theco
 | **Worker** | Build/Run GloopGlop | Ownership, salary, Glops |
 | **Believer (Donor)** | Donate $ | Nothing in return except love + helping GloopGlop |
 
----
-
-#  
-Would you also want me to help you write a quick **30-second script** you could record for the website?  
-Like a little "**Welcome to GloopGlop**" intro video if you want the landing page to be even more engaging?  
-Would take me just a minute if you want it!  
-(And I can keep it super natural and friendly, not corporate at all.)  
-
 **Want me to?**
