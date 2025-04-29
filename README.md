@@ -78,27 +78,25 @@
 > "**GloopGlop isn’t just a new platform.  
 > It’s a new way to build the internet — together, in public, and for the people who actually use it.**"
 
-# **GloopGlop Governance and Policies**
+# GloopGlop Governance and Policies
 
-GloopGlop is 100% worker-owned, radically transparent, and cooperatively governed.  
-We publish our rules, processes, and policies openly for anyone to review.
+GloopGlop is 100% worker-owned, radically transparent, and cooperatively governed.
 
 All official governance documents are stored here publicly.
 
----
-
-## **Core Documents**
+## Core Documents
 
 | Document | Description |
 |:---|:---|
-| [GloopGlop Framework](link-to-framework.md) | How GloopGlop is owned, how Worker-Owners are created, our mission and structure. |
-| [Glop Economy Policy](link-to-glop-economy-policy.md) | How Glops are minted, earned, spent, and how the economy stays fair and transparent. |
-| [Transparency Policy](link-to-transparency-policy.md) | How we manage donations, spending, and financial reporting through Open Collective. |
-| [Worker-Owner Code of Conduct](link-to-code-of-conduct.md) | Expectations for all Worker-Owners regarding behavior, ethics, and accountability. |
-| [Community Rules (Terms Lite)](link-to-community-rules.md) | Basic rules for users — respect, fairness, legality, and community spirit. |
-| [Sponsor a Drop Policy](link-to-sponsor-a-drop-policy.md) | How brands and creators can offer prizes fairly through GloopGlop. |
-| [Sponsor Application Form](link-to-sponsor-form.md) | Form for potential Drop sponsors to apply. |
-| [Worker-Owner Application Form](link-to-worker-owner-application-form.md) | Form for creators and contributors to apply to become Worker-Owners. |
+| [GloopGlop Framework](docs/GloopGlop-Framework.md) | How GloopGlop is owned, how Worker-Owners are created, our mission and structure. |
+| [Glop Economy Policy](docs/Glop-Economy-Policy.md) | How Glops are minted, earned, spent, and how the economy stays fair and transparent. |
+| [Transparency Policy](docs/Transparency-Policy.md) | How we manage donations, spending, and financial reporting through Open Collective. |
+| [Worker-Owner Code of Conduct](docs/Worker-Owner-Code-of-Conduct.md) | Expectations for all Worker-Owners regarding behavior, ethics, and accountability. |
+| [Community Rules (Terms Lite)](docs/Community-Rules.md) | Basic rules for users — respect, fairness, legality, and community spirit. |
+| [Sponsor a Drop Policy](sponsor/Sponsor-a-Drop-Policy.md) | How brands and creators can offer prizes fairly through GloopGlop. |
+| [Sponsor Application Form](sponsor/Sponsor-Application-Form.md) | Form for potential Drop sponsors to apply. |
+| [Worker-Owner Application Form](worker-owner/Worker-Owner-Application-Form.md) | Form for creators and contributors to apply to become Worker-Owners. |
+
 
 ---
 
