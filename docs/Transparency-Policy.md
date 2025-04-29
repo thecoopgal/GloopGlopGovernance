@@ -1,6 +1,6 @@
-> "**At GloopGlop, you’ll always know where the money goes, how decisions are made, and who is building the platform you love.  
+> "At GloopGlop, you’ll always know where the money goes, how decisions are made, and who is building the platform you love.  
 >  
-> No secrets. No scams. Just transparency, community, and trust.**"
+> No secrets. No scams. Just transparency, community, and trust."
 
 # **GloopGlop Transparency Policy**
 

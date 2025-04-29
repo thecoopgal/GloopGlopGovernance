@@ -1,6 +1,6 @@
-> "**GloopGlop is for everyone — and built by everyone who believes a better internet is possible.  
+> "GloopGlop is for everyone — and built by everyone who believes a better internet is possible.  
 >  
-> Thanks for helping us create it!**"
+> Thanks for helping us create it!"
 
 # Contributing to GloopGlop
 

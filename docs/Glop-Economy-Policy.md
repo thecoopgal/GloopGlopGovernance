@@ -1,7 +1,7 @@
-> "**Glops are real rewards for real participation.  
+> "Glops are real rewards for real participation.  
 > They can be spent on prizes, gifted to others, or donated back to build a better community.  
 >  
-> No cashouts. No scams. Just a better, fairer internet.**"
+> No cashouts. No scams. Just a better, fairer internet."
 
 # **GloopGlop: Glop Economy Policy**
 
