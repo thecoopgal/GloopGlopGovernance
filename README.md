@@ -102,7 +102,7 @@ All official governance documents are stored here publicly.
 
 # **About Transparency**
 
-Every major financial report, donation, prize purchase, and tech expense will be posted publicly via our [Open Collective page](link-to-open-collective).
+Every major financial report, donation, prize purchase, and tech expense will be posted publicly via our [Open Collective page](https://opencollective.com/gloopglop).
 
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
