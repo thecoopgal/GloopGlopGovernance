@@ -32,12 +32,12 @@
 ---
 
 ### **[5] Big Idea**
-> "**GloopGlop isn't just another social platform.  
-> It's a place where your time, creativity, and support actually get rewarded — not harvested for ads.**"
+> GloopGlop isn't just another social platform.  
+> It's a place where your time, creativity, and support actually get rewarded — not harvested for ads.
 
 ---
 
-### **[6] (Optional) Believers: Donate, Don’t Dominate**
+### **[6] Believers: Donate, Don’t Dominate**
 - GloopGlop is **worker-owned, forever** — no outside investors control it.  
 - If you **believe** in what we’re building, you can **donate** to help fuel more prizes, better drops, and platform improvements.
 - Donations are purely support — they **do not** buy ownership, votes, or special influence.
@@ -46,7 +46,7 @@
 ---
 
 ### **Founder’s Note**
-> "**GloopGlop is being kickstarted with donations from our founders, both monetarily and through their labor — proof that we believe in building a better, fairer internet from day one.**"
+> **GloopGlop is being kickstarted with donations from our founders, both monetarily and through their labor — proof that we believe in building a better, fairer internet from day one.**
 
 ---
 
@@ -61,7 +61,6 @@
 ---
 
 # **Important Tiny Legal Disclaimer**
-(put this under any donate button, TOS, or "believers" section)
 
 > "**Note: Donations do not confer ownership, equity, or voting rights. GloopGlop is 100% worker-owned.**"
 
