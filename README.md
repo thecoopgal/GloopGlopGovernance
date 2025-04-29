@@ -88,14 +88,14 @@ All official governance documents are stored here publicly.
 
 | Document | Description |
 |:---|:---|
-| [GloopGlop Framework](docs/GloopGlop-Framework.md) | How GloopGlop is owned, how Worker-Owners are created, our mission and structure. |
-| [Glop Economy Policy](docs/Glop-Economy-Policy.md) | How Glops are minted, earned, spent, and how the economy stays fair and transparent. |
-| [Transparency Policy](docs/Transparency-Policy.md) | How we manage donations, spending, and financial reporting through Open Collective. |
-| [Worker-Owner Code of Conduct](docs/Worker-Owner-Code-of-Conduct.md) | Expectations for all Worker-Owners regarding behavior, ethics, and accountability. |
-| [Community Rules (Terms Lite)](docs/Community-Rules.md) | Basic rules for users — respect, fairness, legality, and community spirit. |
-| [Sponsor a Drop Policy](sponsor/Sponsor-a-Drop-Policy.md) | How brands and creators can offer prizes fairly through GloopGlop. |
-| [Sponsor Application Form](sponsor/Sponsor-Application-Form.md) | Form for potential Drop sponsors to apply. |
-| [Worker-Owner Application Form](worker-owner/Worker-Owner-Application-Form.md) | Form for creators and contributors to apply to become Worker-Owners. |
+| [GloopGlop Framework](https://gloopglop.com/about/framework) | How GloopGlop is owned, how Worker-Owners are created, our mission and structure. |
+| [Glop Economy Policy](https://gloopglop.com/about/economy) | How Glops are minted, earned, spent, and how the economy stays fair and transparent. |
+| [Transparency Policy](https://gloopglop.com/about/transparency) | How we manage donations, spending, and financial reporting through Open Collective. |
+| [Worker-Owner Code of Conduct](https://gloopglop.com/about/conduct) | Expectations for all Worker-Owners regarding behavior, ethics, and accountability. |
+| [Community Rules (Terms Lite)](https://gloopglop.com/about/rules) | Basic rules for users — respect, fairness, legality, and community spirit. |
+| [Sponsor a Drop Policy](https://gloopglop.com/about/sponsor) | How brands and creators can offer prizes fairly through GloopGlop. |
+| [Sponsor Application Form](https://gloopglop.com/about/sponsor-apply) | Form for potential Drop sponsors to apply. |
+| [Worker-Owner Application Form](https://gloopglop.com/about/worker-owner) | Form for creators and contributors to apply to become Worker-Owners. |
 
 
 ---
