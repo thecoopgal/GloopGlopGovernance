@@ -1,6 +1,6 @@
-> "At GloopGlop, sponsoring a Drop means offering real rewards to real users — no strings, no scams, no corporate strings attached.  
+> At GloopGlop, sponsoring a Drop means offering real rewards to real users — no strings, no scams, no corporate strings attached.  
 >  
-> Let’s build a fairer internet — together."
+> Let’s build a fairer internet — together.
 
 # **GloopGlop Sponsor-a-Drop Policy**
 

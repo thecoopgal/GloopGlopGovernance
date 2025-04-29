@@ -1,7 +1,7 @@
-> "If you love GloopGlop, contribute actively, and help fund future Drops by donating your Glops,  
+> If you love GloopGlop, contribute actively, and help fund future Drops by donating your Glops,  
 > you can eventually apply to become a full Worker-Owner — earning equal pay, equal voice, and helping shape the future of the platform.  
 >  
-> GloopGlop isn't just a site you use — it's a community you can build and own."
+> GloopGlop isn't just a site you use — it's a community you can build and own.
 
 
 # **GloopGlop Pathway to Worker-Ownership for Creators**

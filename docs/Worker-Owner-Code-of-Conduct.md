@@ -1,9 +1,9 @@
-> "As a Worker-Owner, you are a steward of GloopGlop’s mission:  
+> As a Worker-Owner, you are a steward of GloopGlop’s mission:  
 > Fairness, Transparency, Community.  
 >  
 > You’re free to speak openly.  
 > You’re encouraged to share proudly.  
-> You’re responsible for protecting the heart of GloopGlop."
+> You’re responsible for protecting the heart of GloopGlop.
 
 # **GloopGlop Worker-Owner Code of Conduct**
 

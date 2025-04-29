@@ -1,8 +1,8 @@
-> "Be kind.  
+> Be kind.  
 > Be real.  
 > Be fair.  
 >  
-> And help us build a better internet — together."
+> And help us build a better internet — together.
 
 # **GloopGlop Community Rules**
 
